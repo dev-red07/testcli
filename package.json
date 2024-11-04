@@ -13,8 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "@clack/prompts": "^0.6.3"
   }
 }
