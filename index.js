@@ -11,7 +11,7 @@ async function askQuestion(question, answers, correctAnswerIndex) {
 	answers.forEach((answer) => {
 		options.push({value: answer, label: answer})
 	})
-
+//test is test
 	const answer = await p.select({
 		message: question,
 		initialValue: '1',
