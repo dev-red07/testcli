@@ -1,5 +1,5 @@
 {
-  "name": "@dev-red07/cli-trivia-game",
+  "name": "test-cli",
   "version": "1.0.5",
   "description": "",
   "main": "index.ts",
