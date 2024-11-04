@@ -1,5 +1,5 @@
 {
-  "name": "cli-trivia-game",
+  "name": "@dev-red07/cli-trivia-game",
   "version": "1.0.5",
   "description": "",
   "main": "index.ts",
@@ -15,5 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "@clack/prompts": "^0.6.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
